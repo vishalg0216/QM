@@ -1,5 +1,5 @@
 #PARTICAL IN A BOX
-print("vishal")
+print("1D")
 
 
 
